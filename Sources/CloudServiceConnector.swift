@@ -5,7 +5,7 @@
 //  Created by alexiscn on 2021/8/26.
 //
 
-import Foundation
+import UIKit
 import OAuthSwift
 
 public protocol CloudServiceOAuth {
